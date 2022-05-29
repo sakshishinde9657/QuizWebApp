@@ -1,0 +1,179 @@
+body { background-color: #F5F5F5;}
+
+body#Title { background-color: #1E2933;}
+
+body#Menu { background-color: #105AB2;}
+
+h1#Title {color: #FFFFFF;
+		  font-family: Segoe UI Light;
+		  margin-left: 200;}
+
+img#Search {float: right; 
+			margin-right:200;
+			padding:9px;
+			height:28;}
+
+form#SearchBar {float: right; 
+				padding:8px;}
+
+input#Search{ width:175; 
+			  height:32;
+			  padding:5; 
+			  color: #C0C0C0;}
+
+img#Search:hover {background-color:#FF7F00;}
+
+ul#Menu {padding: 2.5;
+		 margin-left: 175;}
+
+ul#Menu li {display: inline;}
+
+ul#Menu li a {
+    color: white;
+    padding: 15px 20px;
+    text-decoration: none;
+    font-family: Segoe UI Light;}
+
+ul#Menu li a:hover {background-color: #777D82;}
+ul#Menu li a:active {background-color: orange;}
+
+
+div#sidemenu {background-color:#304456;
+			 margin-left:155;
+			 height: 400;}
+
+ul#sidemenu li a {
+    color: white;
+    text-decoration: none;
+    font-family: Segoe UI Light;
+    font-size: 18px;
+    padding: 10px 20px;
+    display: block;
+    height: 30px;}
+
+ul#sidemenu li a:hover {
+    color: black;
+    background-color: white;
+    font-family: Segoe UI;}
+
+
+h2 {font-family:Segoe UI;
+	margin-top:25;
+	margin-left:25;
+	font-size:25px;}
+
+h3 { font-family: Segoe UI ;
+	font-size: 20px;
+	text-align: left; }
+
+h3#topdest { margin-right: 200;}
+
+h3#About { font-family: Segoe UI Light;}
+
+h3#Features{ font-family: Segoe UI Light;
+			text-align: center;
+			margin-right: 200;}
+
+b { color: #404040;}
+
+hr {background-color: orange;
+	border: 1px solid orange;}
+
+img#wideimage{ margin-right:200;
+			  border: 1px solid #F5F5F5;
+			  width: 875px;	
+			  height: 375px;}
+
+a img#wideimage:hover{ border: dashed;
+						border-width: 1px;
+						border-color: #A0A0A0;}
+
+div.gallery { margin: 5px;
+    		  float: left;
+    		  width: 280px;
+    		  background-color: white;
+    		  border: 1px solid #F5F5F5;}
+
+div.gallery:hover { background-color : #F2F2F2;
+    				border: 1px dashed #C5C5C5;}
+
+div.gallery img { width: 100%;
+   					height: 150px;}
+
+div.description { padding: 15px;
+    				text-align: center;
+    				font-family: Segoe UI ;}
+
+ul li #Features  { font-family: Segoe UI Light;
+					font-size: 18px; }
+
+ul#Features li { text-align: center;
+				 padding: 10px;	}
+
+div#Attractions,#About,#Contact,#Fairdesc,.packagedesc,#Login,#Signup { background-color: white;
+				  margin-right: 200;
+				  padding: 1px 5px;
+				  font-family: Segoe UI light; }
+
+div#tourdesc { margin-right: 200;
+			   background-color: white;
+			   padding: 5px 15px;
+			   font-family: Segoe UI light; }
+
+h4.tourname { font-family: Segoe UI;
+			 font-size: 20px; 
+			 color: #E01A33;}
+
+img.tourimages { padding:10px 5px;
+			  width: 600px;
+			  height: 295px;}
+
+img#sideimage.tourimages { padding:10px 5px;
+			  			   width: 250px;
+			  			   height: 135px;}
+
+div.tourimages { float: right;
+				 margin-right: 200; }
+
+div.Features { background-color: white;
+			  margin-right:200;
+			  text-align: center;
+			  font-family: Segoe UI light;}
+
+.button { 
+    	   background-color: #ED1C24;
+    	   border-radius: 3px;
+    	   text-decoration: none;
+    	   font-size: 16px;
+    	   color:white;
+           font-family: Segoe UI Light;
+    	   padding: 4px 25px;
+    	   border-width: 0;}
+
+.button:hover { background-color: #777777;}
+
+p { font-family: Segoe UI Light;
+	font-size: 18px;
+	padding: 10px 10px;}
+
+
+p#About { margin-left: 25;}
+
+p#HWSR { background-color: #D9D9D9;margin-right:200px;}
+
+p#input {text-align:center;}
+
+img#HWSRFeatures { width: 220px;}
+
+address {font-size:16px;
+			font-family:Segoe UI Light;
+			margin-left: 30;}
+
+div.Fairimg { margin: 5px;
+    	 	float: left;
+    		width: 430px;
+    		background-color: white;
+    		border: 1px solid #F5F5F5;}
+
+div.Fairimg img { width: 100%;
+   			height: auto;}
